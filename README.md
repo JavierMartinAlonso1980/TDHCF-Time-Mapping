@@ -49,7 +49,7 @@ Mathematical framework complete. Experimental validation sought.
 
 ## 📬 Contact
 
-[jmmam@movistar.es](mailto:jmmam@movistar.es)
+[jmma@movistar.es](mailto:jmmam@movistar.es)
 
 ---
 
