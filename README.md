@@ -52,4 +52,11 @@ Mathematical framework complete. Experimental validation sought.
 [jmma@movistar.es](mailto:jmmam@movistar.es)
 
 ---
+## 🏷️ Topics
+
+[![ads-cft](https://img.shields.io/badge/ads--cft-active-green)](https://github.com/topics/ads-cft)
+[![holography](https://img.shields.io/badge/holography-active-blue)](https://github.com/topics/holography)
+[![quantum-field-theory](https://img.shields.io/badge/qft-active-orange)](https://github.com/topics/quantum-field-theory)
+
+#topological-vortex #time-mapping
 
