@@ -1,58 +1,54 @@
 # TDHCF Time Mapping Protocol
 
 **Topological Deformed Holographic Collective Field Theory**  
-*Holographic framework connecting bulk AdS vortices to boundary QFT observables*
+*Bulk-boundary coordinate mapping for AdS/CFT applications*
 
 ---
 
-## 🎯 Core Mapping
+## 🎯 Core Protocol
 
-The vortex angular velocity (v) maps to temperature (T) and proper time (τ) via holographic correspondence:
+Resolves coordinate ambiguity between bulk null time (v) and holographic global time (T):
 
-v → T → τ
 
-Where:
-- **v** = Angular velocity of topological vortex in AdS bulk
-- **T** = Temperature at QFT boundary (thermal bath)
-- **τ** = Proper time of entangled observers
+dμ/dT_obs = (dμ/dv) × (dv/dT)_Σ 
 
----
 
-## 📐 Key Equation
-
-The time mapping protocol establishes:
-
-T_QFT = f(v_bulk) × (scaling factor)
-
-See full mathematical derivation in documentation.
+**Vaidya gauge** (null dust inflow) → **Brane observables** (QFT boundary).
 
 ---
 
-## 📄 Documentation
+## 📐 Key Features
 
-- [Time Mapping Protocol (PDF)](./Time_Mapping_Protocol.pdf)
-- Full framework: [Holographic Topological Vortex Genesis](https://doi.org/10.5281/zenodo.18289357)
-- Related thesis: [Entanglement Dominance in Zero-T Limit](https://doi.org/10.5281/zenodo.18353640)
+- **Eddington-Finkelstein coordinates** (v): Captures causal horizon thickening
+- **Chain rule** with redshift factor: Preserves causality
+- **Quasi-static approximation**: μ(v) ≃ μ(T) for rb ≫ rh
 
 ---
 
-## 🔗 Related Work
+## 📄 Full Documentation
 
-- [Entanglement-Dominance-TMST](https://github.com/JavierMartinAlonso1980/Entanglement-Dominance-TMST) - Simulation framework
-- [Publications](https://orcid.org/0009-0007-4051-6414)
+[Time Mapping Protocol (PDF)](./TDHCF_MVC_Time_Mapping_Protocol.pdf)
+
+**Related Publications:**
+- [Holographic Topological Vortex Genesis](https://doi.org/10.5281/zenodo.18289357)
+- [Entanglement Dominance Thesis](https://doi.org/10.5281/zenodo.18353640)
+
+---
+
+## 🔗 Applications
+
+- **Belle II**: Constrain redshift factors via ττ correlations
+- **ALICE**: Test horizon thickening in heavy-ion flow
 
 ---
 
 ## 📊 Status
 
-Framework development complete. Documentation in progress.
-
----
+Mathematical framework complete. Experimental validation sought.
 
 ## 📬 Contact
 
-Questions or collaboration: [jmmam@movistar.es](mailto:jmmam@movistar.es)
+[jmmam@movistar.es](mailto:jmmam@movistar.es)
 
-## 📝 License
+---
 
-MIT License - See [LICENSE](./LICENSE)
