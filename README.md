@@ -10,7 +10,10 @@
 Resolves coordinate ambiguity between bulk null time (v) and holographic global time (T):
 
 
-dμ/dT_obs = (dμ/dv) × (dv/dT)_Σ 
+**Eq. (1):**  
+$$
+\frac{d\mu}{dT_{\rm obs}} = \frac{d\mu}{dv} \cdot \left( \frac{dv}{dT} \right)_{\Sigma}
+$$
 
 
 **Vaidya gauge** (null dust inflow) → **Brane observables** (QFT boundary).
